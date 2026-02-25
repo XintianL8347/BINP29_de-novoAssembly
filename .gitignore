@@ -1,6 +1,3 @@
-# raw data
-Data/
-
 # lineages
 busco_downloads/
 
@@ -12,6 +9,8 @@ Results/3_Quast/icarus_viewers
 *.bin
 
 # sequence files
+*.fastq
+*.fastq.gz
 *.fa
 *.faa
 *.gfa
