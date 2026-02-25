@@ -1,0 +1,17 @@
+# raw data
+Data/
+
+# lineages
+busco_downloads/
+
+# large results
+Results/4_BUSCO/logs
+Results/4_BUSCO/run_saccharomycetes_odb10
+Results/3_Quast/basic_stats
+Results/3_Quast/icarus_viewers 
+*.bin
+
+# sequence files
+*.fa
+*.faa
+*.gfa
